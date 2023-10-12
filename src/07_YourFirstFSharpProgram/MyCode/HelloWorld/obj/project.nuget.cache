@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AhLaXOxphCTxbRpv7KR+5ripdao8nIvCmut0PMaNLz/ykTfrLwMNolcPfBLM/WeM3W4xfDiJ/E3f+ROulEcgkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\carl\\Desktop\\LearningFSharp\\src\\07_YourFirstFSharpProgram\\MyCode\\HelloWorld\\HelloWorld.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\carl\\.nuget\\packages\\fsharp.core\\4.7.2\\fsharp.core.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
